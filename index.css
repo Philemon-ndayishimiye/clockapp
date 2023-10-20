@@ -1,0 +1,28 @@
+button{
+    width: 90px;
+    height: 40px;
+    color: green;
+    border: 2px solid;
+    border-radius: 15px;
+    
+}
+#firstdiv{
+    width: 150px;
+    height: 150px;
+    border: 2px solid;
+    background-color: green; 
+}
+#container{
+    width: 400px;
+    height: 100px;
+    border: 2px solid;
+    background-color: black;
+    text-align: center;
+     
+}
+#container1{
+    color: white;
+    font-size: 28px;
+    padding-top: 20px;
+    text-align: center;
+}
